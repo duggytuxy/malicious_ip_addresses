@@ -2,8 +2,8 @@
 These are the IP addresses of the most active Botnets/Zombies/Scanners in Belgian cyber space
 
 - SSH Brute Forcers
-- FortiOS Exploits
-- Exchange Exploits
+- FortiOS CVE | RCE Exploits
+- Exchange CVE | RCE Exploits
 - Scanners
 - VPN-SSL Brute Forcers
 
