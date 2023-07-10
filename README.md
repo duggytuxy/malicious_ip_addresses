@@ -6,6 +6,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Belgia
 - Exchange CVE | RCE Exploits
 - Scanners
 - VPN-SSL Brute Forcers
+- C2 CobaltStrike
 
 Etc.
 
