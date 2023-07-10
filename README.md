@@ -7,6 +7,8 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Belgia
 - Scanners
 - VPN-SSL Brute Forcers
 - C2 CobaltStrike
+- CGI Script Scanner
+- Cisco ASA Scanner
 
 Etc.
 
