@@ -1,5 +1,5 @@
 # Malicious IP Addresses
-These are the IP addresses of the most active Botnets/Zombies/Scanners in Belgian cyber space
+These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
 - SSH Brute Forcers
 - FortiOS CVE | RCE Exploits
