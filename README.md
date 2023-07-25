@@ -10,6 +10,9 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - CGI Script Scanner
 - Cisco ASA Scanner
 - MSSQL Bruteforcer
+- GPON CVE-2018-10561 Router Worm
+- GPON CVE-2018-10562 Router Worm
+- SSH Worm
 
 Etc.
 
