@@ -9,6 +9,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - C2 CobaltStrike
 - CGI Script Scanner
 - Cisco ASA Scanner
+- MSSQL Bruteforcer
 
 Etc.
 
