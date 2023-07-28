@@ -14,6 +14,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - GPON CVE-2018-10562 Router Worm
 - SSH Worm
 - VMware ESXi Scanner
+- RDP Worm
 
 Etc.
 
