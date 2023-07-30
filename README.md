@@ -4,7 +4,6 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - SSH Brute Forcers
 - FortiOS CVE | RCE Exploits
 - Exchange CVE | RCE Exploits
-- Scanners
 - VPN-SSL Brute Forcers
 - C2 CobaltStrike
 - CGI Script Scanner
