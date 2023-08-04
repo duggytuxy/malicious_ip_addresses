@@ -14,6 +14,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - SSH Worm
 - VMware ESXi Scanner
 - RDP Worm
+- Grafana API_JSONRPC.PHP Zabbix Credentials Disclosure Attempt
 
 Etc.
 
