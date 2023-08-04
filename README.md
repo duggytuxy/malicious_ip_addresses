@@ -15,6 +15,12 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - VMware ESXi Scanner
 - RDP Worm
 - Grafana API_JSONRPC.PHP Zabbix Credentials Disclosure Attempt
+- WordPress Core User Enumeration Attempt
+- Ivanti EPMM (MobileIron Core) Authentication Bypass Attempt
+- Huawei HG532 UPnP CVE-2017-17215 Worm
+- Open Proxy Scanner
+- QNX Qconn Exploit
+- ProxyLogon SSRF Vuln Check
 
 Etc.
 
