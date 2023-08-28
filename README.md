@@ -24,4 +24,4 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 
 Etc.
 
-PS: both lists will be updated every 24/48h
+PS: this list will be updated every 24/48h
