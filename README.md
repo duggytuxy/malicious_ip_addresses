@@ -26,6 +26,6 @@ Etc.
 
 # Update
 
-Following feedback from numerous Fortinet firewall users, I've decided to split the lists with a fixed number of 130,000 IP addresses per entry.
+Following feedback from Fortinet firewall users, I've decided to split the lists with a fixed number of 130,000 IP addresses per entry.
 
 PS: this list will be updated every 24/48h
