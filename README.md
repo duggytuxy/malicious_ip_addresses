@@ -26,6 +26,7 @@ Etc.
 
 # Update
 
-Following feedback from Fortinet firewall users, I've decided to split the lists with a fixed number of 130,000 IP addresses per entry.
+For Fortinet Firewall users, you will need to fork the list and split it into 130,000 entries per file (130,000 IP addresses per file). 
+In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
 
 PS: this list will be updated every 24/48h
