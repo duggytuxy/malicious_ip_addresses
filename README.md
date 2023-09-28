@@ -1,6 +1,11 @@
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
+- blacklist_ips_for_fortinet_firewall_aa.txt
+- blacklist_ips_for_fortinet_firewall_ab.txt
+- botnets_zombies_scanner_spam_ips.txt
+- botnets_zombies_scanner_spam_ips_ipv6.txt
+
 - SSH Brute Forcers
 - FortiOS CVE | RCE Exploits
 - Exchange CVE | RCE Exploits
