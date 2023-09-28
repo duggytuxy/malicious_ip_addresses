@@ -6,6 +6,8 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - botnets_zombies_scanner_spam_ips.txt
 - botnets_zombies_scanner_spam_ips_ipv6.txt
 
+# Categories
+
 - SSH Brute Forcers
 - FortiOS CVE | RCE Exploits
 - Exchange CVE | RCE Exploits
