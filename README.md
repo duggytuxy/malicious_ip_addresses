@@ -41,7 +41,7 @@ I have created specific lists for Fortinet firewall users following the limitati
 - blacklist_ips_for_fortinet_firewall_ab.txt
 - etc."
 
-Also, you will need to fork the list and split it into 130,000 entries per file (130,000 IP addresses per file). 
+Also, you will need to fork the list and split it into 130,000 entries per file. 
 In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
 
 PS: this list will be updated every 24/48h
