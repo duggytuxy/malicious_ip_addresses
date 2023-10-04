@@ -31,6 +31,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - QNX Qconn Exploit
 - ProxyLogon SSRF Vuln Check
 - Shodan Scanners
+- Stretchoid Scanner
 
 Etc.
 
