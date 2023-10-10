@@ -43,8 +43,10 @@ Etc.
 I have created specific lists for Fortinet firewall users following the limitation set by Fortinet:
 
 ```blacklist_ips_for_fortinet_firewall_aa.txt```
+
 ```blacklist_ips_for_fortinet_firewall_ab.txt```
-- etc."
+
+- etc.
 
 Also, you will need to fork the list and split it into 130,000 entries per file. 
 In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
