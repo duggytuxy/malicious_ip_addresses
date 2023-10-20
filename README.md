@@ -10,9 +10,9 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 
 ```blacklist_ips_for_fortinet_firewall_ab.txt```
 
-```botnets_zombies_scanner_spam_ips.txt```(full list)
+```botnets_zombies_scanner_spam_ips.txt``` (full list)
 
-```botnets_zombies_scanner_spam_ips_ipv6.txt```(soon !!!)
+```botnets_zombies_scanner_spam_ips_ipv6.txt``` (soon !!!)
 
 # Categories
 
