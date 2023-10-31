@@ -39,6 +39,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - Atlassian Confluence Server Privilege Escalation
 - Shodan Scanners
 - Stretchoid Scanner
+- XWorm MaaS (IoC)
 
 Etc.
 
