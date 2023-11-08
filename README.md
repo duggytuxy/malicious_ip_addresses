@@ -40,6 +40,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - Shodan Scanners
 - Stretchoid Scanner
 - XWorm MaaS (IoC)
+- Designated CVE-2023-22518 Exploitation
 
 Etc.
 
