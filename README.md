@@ -1,4 +1,4 @@
-![be_cyber_community](https://github.com/duggytuxy/malicious_ip_addresses/assets/61513268/c735161c-9ad3-4265-ad6c-9881b2fd6b72)
+![new_logo_becyber_community_dark_bg_updated](https://github.com/duggytuxy/malicious_ip_addresses/assets/61513268/369dedd2-9c29-4d61-8380-df3687517e60)
 
 
 # Malicious IP Addresses
