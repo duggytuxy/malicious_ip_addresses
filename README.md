@@ -20,7 +20,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - FortiOS CVE | RCE Exploits
 - Exchange CVE | RCE Exploits
 - VPN-SSL Brute Forcers
-- C2 CobaltStrike
+- C2 Cobalt Strike
 - CGI Script Scanner
 - Cisco ASA Scanner
 - MSSQL Bruteforcer
@@ -41,6 +41,11 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - Stretchoid Scanner
 - XWorm MaaS (IoC)
 - CVE-2023-22518 Exploitation
+- NjRat
+- QaKBot
+- Malware
+- Phishing
+- Mirai
 
 Etc.
 
