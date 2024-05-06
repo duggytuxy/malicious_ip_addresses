@@ -1,6 +1,3 @@
-![lk_dc_new_logo_2024](https://github.com/duggytuxy/malicious_ip_addresses/assets/61513268/eda67318-c75e-4ef1-b494-f844103fb2a5)
-
-
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
