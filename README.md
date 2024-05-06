@@ -4,6 +4,8 @@
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
+***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=8GBRAM5CU57S4
+
 # All lists available
 
 ```blacklist_ips_for_fortinet_firewall_aa.txt```
@@ -63,3 +65,5 @@ Also, you will need to fork the list and split it into 130,000 entries per file.
 In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
 
 PS: this list will be updated every 24/48h
+
+
