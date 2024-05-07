@@ -1,8 +1,7 @@
-![lk_dc_new_logo_2024](https://github.com/duggytuxy/malicious_ip_addresses/assets/61513268/eda67318-c75e-4ef1-b494-f844103fb2a5)
-
-
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
+
+***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=8GBRAM5CU57S4
 
 # All lists available
 
@@ -63,3 +62,5 @@ Also, you will need to fork the list and split it into 130,000 entries per file.
 In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
 
 PS: this list will be updated every 24/48h
+
+
