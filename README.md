@@ -45,7 +45,6 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - NjRat
 - QaKBot
 - Malware
-- Phishing
 - Mirai
 
 Etc.
