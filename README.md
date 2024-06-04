@@ -1,6 +1,8 @@
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
+⚠For using these lists, you need to create Firewall Rules are WAN to LAN (Inbound rules)⚠
+
 ***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=8GBRAM5CU57S4
 
 # All lists available
