@@ -1,6 +1,8 @@
 # Malicious IP Addresses
 These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
 
+⚠Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN⚠
+
 ***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=8GBRAM5CU57S4
 
 # All lists available
@@ -43,7 +45,6 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 - NjRat
 - QaKBot
 - Malware
-- Phishing
 - Mirai
 
 Etc.
