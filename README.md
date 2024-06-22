@@ -13,8 +13,6 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 
 ```botnets_zombies_scanner_spam_ips.txt``` (full list)
 
-```botnets_zombies_scanner_spam_ips_ipv6.txt``` (soon !!!)
-
 # Categories
 
 - SSH Brute Forcers
