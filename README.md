@@ -3,7 +3,7 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 
 ⚠Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN⚠
 
-***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=8GBRAM5CU57S4
+***Support our work with a donation*** 👉 https://www.paypal.com/donate/?hosted_button_id=YDTWBDBS7CPLN
 
 # All lists available
 
@@ -15,35 +15,19 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners in Europe
 
 # Categories
 
-- SSH Brute Forcers
-- FortiOS CVE | RCE Exploits
-- Exchange CVE | RCE Exploits
-- VPN-SSL Brute Forcers
-- C2 Cobalt Strike
-- CGI Script Scanner
-- Cisco ASA Scanner
-- MSSQL Bruteforcer
-- GPON CVE-2018-10561 Router Worm
-- GPON CVE-2018-10562 Router Worm
-- SSH Worm
-- VMware ESXi Scanner
-- RDP Worm
-- Grafana API_JSONRPC.PHP Zabbix Credentials Disclosure
-- WordPress Core User Enumeration
-- Ivanti EPMM (MobileIron Core) Authentication Bypass
-- Huawei HG532 UPnP CVE-2017-17215 Worm
-- Open Proxy Scanner
-- QNX Qconn Exploit
-- ProxyLogon SSRF Vuln Check
-- Atlassian Confluence Server Privilege Escalation
-- Shodan Scanners
-- Stretchoid Scanner
-- XWorm MaaS (IoC)
-- CVE-2023-22518 Exploitation
-- NjRat
-- QaKBot
-- Malware
-- Mirai
+• WannaCry Variant SMB Connection
+• CVE-2017-17215 RCE
+• CVE-2018-10561 RCE
+• CVE-2019-9082 RCE
+• CVE-2022-47945 RCE
+• CVE-2023-30891 RCE
+• FortiNAC RCE CVE-2023-33299
+• CVE-2024-4577 RCE
+• SSH Alternative Bruteforcer
+• SSH Bruteforcer
+• Generic IoT Bruteforcer
+• Apache HTTP Server Path Traversal
+• Generic Path Traversal
 
 Etc.
 
