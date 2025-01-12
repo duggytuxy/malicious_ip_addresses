@@ -1,5 +1,5 @@
 # Malicious IP Addresses
-These are the IP addresses of the most active Botnets/Zombies/Scanners in European Cyber Space
+These are the IP addresses of the most active Botnets/Zombies/Scanners DST = France & Belgium
 
 ⚠Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN⚠
 
