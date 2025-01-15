@@ -13,19 +13,25 @@ These are the IP addresses of the most active Botnets/Zombies/Scanners DST = Fra
 
 # Categories
 
-• WannaCry Variant SMB Connection
-• CVE-2017-17215 RCE
-• CVE-2018-10561 RCE
-• CVE-2019-9082 RCE
-• CVE-2022-47945 RCE
-• CVE-2023-30891 RCE
-• FortiNAC RCE CVE-2023-33299
-• CVE-2024-4577 RCE
-• SSH Alternative Bruteforcer
-• SSH Bruteforcer
-• Generic IoT Bruteforcer
-• Apache HTTP Server Path Traversal
-• Generic Path Traversal
+- WannaCry Variant SMB Connection
+- CVE-2014-8361 RCE
+- CVE-2015-7755 RCE
+- CVE-2016-6277 RCE
+- CVE-2016-6563 RCE
+- CVE-2017-6884 RCE
+- CVE-2017-17215 RCE
+- CVE-2018-10561 RCE
+- CVE-2018-0125 RCE
+- CVE-2019-9082 RCE
+- CVE-2022-47945 RCE
+- CVE-2023-30891 RCE
+- FortiNAC CVE-2023-33299 RCE
+- CVE-2024-4577 RCE
+- SSH Alternative Bruteforcer
+- SSH Bruteforcer
+- Generic IoT Bruteforcer
+- Apache HTTP Server Path Traversal
+- Generic Path Traversal
 
 Etc.
 
