@@ -1,5 +1,5 @@
 # Malicious IP Addresses
-Intelligence Vickam Cybersecurity Blocklists: Botnets, RaT, CVE's RCE, Scanners. DST = France & Belgium
+Intelligence Vickam Cybersecurity Blocklists (IPv4): Botnets, RaT, CVE's RCE, Scanners. DST = France & Belgium
 
 ⚠Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN⚠
 
