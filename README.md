@@ -25,6 +25,7 @@ Intelligence Blocklists (IPv4): Botnets, RaT, CVE's RCE, Scanners. DST = France 
 - CVE-2023-30891 RCE
 - FortiNAC CVE-2023-33299 RCE
 - CVE-2024-4577 RCE
+- C2 Cobalt Strike, Havoc
 - SSH Alternative Bruteforcer
 - SSH Bruteforcer
 - Generic IoT Bruteforcer
