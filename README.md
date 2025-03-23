@@ -1,13 +1,15 @@
 # Malicious IP Addresses
 Intelligence Blocklists (IPv4): Botnets, RaT, CVE's RCE, Scanners. DST = France & Belgium
 
-⚠Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN⚠
+✋Since these are malicious IP addresses that are bumping, you need to create rules based on WAN to LAN (for e.g.)
 
-# All lists available
+# Single list
 
-```blacklist_ips_for_fortinet_firewall_aa.txt```
+✅agressive_ips_dst_fr_be_blocklist.txt (from April 8, 2025)
 
-```botnets_zombies_scanner_spam_ips.txt``` (full list)
+❌```blacklist_ips_for_fortinet_firewall_aa.txt``` (Will be discontinued on April 7, 2025)
+
+❌```botnets_zombies_scanner_spam_ips.txt``` (Will be discontinued on April 7, 2025)
 
 # Categories
 
@@ -33,17 +35,6 @@ Intelligence Blocklists (IPv4): Botnets, RaT, CVE's RCE, Scanners. DST = France 
 - Generic Path Traversal
 
 Etc.
-
-# Update
-
-I have created specific lists for Fortinet firewall users following the limitation set by Fortinet:
-
-```blacklist_ips_for_fortinet_firewall_aa.txt```
-
-- etc.
-
-Also, you will need to fork the list and split it into 130,000 entries per file. 
-In this way, you can validate it in your Threat feeds of your Fortinet Firewall.
 
 PS: this list will be updated every 24/48h
 
