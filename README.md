@@ -6,11 +6,7 @@ Intelligence Blocklists (IPv4): Botnets, RaT, CVE's RCE, Scanners. DST = France 
 
 # Single list
 
-✅agressive_ips_dst_fr_be_blocklist.txt (from April 8, 2025)
-
-❌```blacklist_ips_for_fortinet_firewall_aa.txt``` (Will be discontinued on April 7, 2025)
-
-❌```botnets_zombies_scanner_spam_ips.txt``` (Will be discontinued on April 7, 2025)
+✅agressive_ips_dst_fr_be_blocklist.txt
 
 # Categories
 
